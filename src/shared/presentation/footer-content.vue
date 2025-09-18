@@ -12,7 +12,7 @@ const { t } = useI18n();
     <div class="col-12 ml-3 mt-3 align-items-center justify-content-center">
       <p>
         {{ t('authoring-phrase.intro')}} <i class="pi pi-heart"/>
-        {{ t('authoring-phrase.use')}} <a href="https::www.primevue.org" target="_blank">PrimeVue</a>
+        {{ t('authoring-phrase.use')}} <a href="https://www.primevue.org" target="_blank">PrimeVue</a>
         {{ t('authoring-phrase.author', { brand: 'ACME Studios' })}}
       </p>
       <p>{{ t('footer.powered-by')}} <a href="https://www.newsapi.org">NewsAPI.org</a> <a href="https://www.clearbit.com">Clearbit Logo API</a> </p>
