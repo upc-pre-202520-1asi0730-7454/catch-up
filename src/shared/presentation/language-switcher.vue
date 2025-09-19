@@ -5,7 +5,7 @@
 <template>
   <pv-select-button 
       v-model="$i18n.locale" 
-      :options="$i18n.availableLocales.map(locale => ({ label: locale.toUpperCase(), value: locale }))" />
+      :options="$i18n.availableLocales"/>
 </template>
 
 <style scoped>
