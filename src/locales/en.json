@@ -1,10 +1,10 @@
 {
   "read-more": "Read more",
   "unavailable-news": "News service is currently unavailable.",
-  " authoring-phrase": {
+  "authoring-phrase": {
     "intro": "Made with",
     "use": "using",
-    " author": " by {brand} Development Team"
+    "author": " by {brand} Development Team"
   },
   "article": {
     "share": "Share",

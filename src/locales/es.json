@@ -1,10 +1,10 @@
 {
   "read-more": "Ver más",
   "unavailable-news": "Servicio de noticas no disponible en este momento.",
-  " authoring-phrase": {
+  "authoring-phrase": {
     "intro": "Hecho con",
     "use": "utilizando",
-    " author": "Por el Equipo de desarrollo de {brand}"
+    "author": "Por el Equipo de desarrollo de {brand}"
   },
   "article": {
     "share": "Compartir",
